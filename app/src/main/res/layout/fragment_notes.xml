@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     tools:context=".ui.notes.NotesFragment">
 
-    <!-- TODO: Update blank fragment layout -->
+    <!-- TODO: add recyclerview and fab button to add notes -->
     <TextView
         android:layout_width="match_parent"
         android:layout_height="match_parent"
